@@ -1,0 +1,14 @@
+C:\Users\yeyo-\Desktop\Proyectos\C#\bin\Debug\net9.0\C#.exe
+C:\Users\yeyo-\Desktop\Proyectos\C#\bin\Debug\net9.0\C#.deps.json
+C:\Users\yeyo-\Desktop\Proyectos\C#\bin\Debug\net9.0\C#.runtimeconfig.json
+C:\Users\yeyo-\Desktop\Proyectos\C#\bin\Debug\net9.0\C#.dll
+C:\Users\yeyo-\Desktop\Proyectos\C#\bin\Debug\net9.0\C#.pdb
+C:\Users\yeyo-\Desktop\Proyectos\C#\obj\Debug\net9.0\C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yeyo-\Desktop\Proyectos\C#\obj\Debug\net9.0\C#.AssemblyInfoInputs.cache
+C:\Users\yeyo-\Desktop\Proyectos\C#\obj\Debug\net9.0\C#.AssemblyInfo.cs
+C:\Users\yeyo-\Desktop\Proyectos\C#\obj\Debug\net9.0\C#.csproj.CoreCompileInputs.cache
+C:\Users\yeyo-\Desktop\Proyectos\C#\obj\Debug\net9.0\C#.dll
+C:\Users\yeyo-\Desktop\Proyectos\C#\obj\Debug\net9.0\refint\C#.dll
+C:\Users\yeyo-\Desktop\Proyectos\C#\obj\Debug\net9.0\C#.pdb
+C:\Users\yeyo-\Desktop\Proyectos\C#\obj\Debug\net9.0\C#.genruntimeconfig.cache
+C:\Users\yeyo-\Desktop\Proyectos\C#\obj\Debug\net9.0\ref\C#.dll
