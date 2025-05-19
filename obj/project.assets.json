@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\yeyo-\\Desktop\\Proyectos\\C#\\C#.csproj",
+      "projectUniqueName": "C:\\Users\\yeyo-\\Desktop\\Proyectos\\Bases-C#\\C#.csproj",
       "projectName": "C#",
-      "projectPath": "C:\\Users\\yeyo-\\Desktop\\Proyectos\\C#\\C#.csproj",
+      "projectPath": "C:\\Users\\yeyo-\\Desktop\\Proyectos\\Bases-C#\\C#.csproj",
       "packagesPath": "C:\\Users\\yeyo-\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\yeyo-\\Desktop\\Proyectos\\C#\\obj\\",
+      "outputPath": "C:\\Users\\yeyo-\\Desktop\\Proyectos\\Bases-C#\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\yeyo-\\AppData\\Roaming\\NuGet\\NuGet.Config"

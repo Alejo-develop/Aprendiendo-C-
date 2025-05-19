@@ -90,6 +90,16 @@ namespace CSharpHelloWorld
                 Console.WriteLine(myItem);
             }
 
+            //while
+            int x = 1;
+            while (x < 3)
+            {
+                Console.WriteLine(x);
+                x += 1;
+            }
+
+            Console.WriteLine("Sali del contador");
+
             //flujos
             myInt = 11;
             if (myInt == 11 && myBool == true)
